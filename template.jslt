@@ -1,0 +1,3 @@
+{
+    "text":"*"+.from.first_name+"@telegram*: "+.text
+} 
